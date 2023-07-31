@@ -1,0 +1,3 @@
+variable "types" {
+  default = "REGIONAL"
+}
